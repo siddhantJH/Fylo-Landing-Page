@@ -1,0 +1,147 @@
+.navbar-brand
+{
+  font-weight: 700;
+  margin: 2.5%;
+}
+li
+{
+  padding: 2%;
+  padding-left:15px;
+  padding-right: 15px;
+}
+p
+{
+  width:90%;
+  font-family: 'Open Sans', sans-serif;
+  margin: auto;
+  padding-top: 2%;
+}
+h2,h1,h3,h4,h5,h6{
+  width: 90%;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 1000;
+  padding-top: 2%;
+  margin: auto;
+}
+.navbar
+{
+  padding: auto 2% auto 2%;
+  width: auto;
+  margin: auto;
+}
+img{
+  width:400px;
+  height:350px;
+  display: block;
+  margin: 5px auto 5px auto;
+}
+.curve
+{
+  width: 100%;
+  height: auto;
+  margin-bottom: 0px;
+}
+.fill-up
+{
+  background-color: hsl(240, 75%, 98%)
+}
+.get-access,.get-contact
+{
+  padding: 7% 5% 10% 5%;
+  color: white;
+
+margin-right: 0px;
+margin-left: 0px;
+}
+.col-lg-12
+{
+  padding: 0;
+}
+.get-access
+{
+  margin-top: 1%;
+  height:300px;
+  background-color: hsl(238, 22%, 44%);
+}
+.nav-link
+{
+      color:grey;
+}
+.btn
+{
+  margin-bottom: 5px;
+}
+.email-example
+{
+  width:450px;
+  height:40px;
+  margin-bottom: 10px;
+}
+.btn
+{
+  width:200px;
+  hight:60px;
+}
+.input-text
+{
+  width:200px;
+  margin:10px 10px 0px 30px;
+}
+.get-contact
+{
+
+  height: auto;
+background-color:hsl(243, 87%, 12%);
+}
+i
+{
+  padding:10px;
+  margin:10% 2% 2% 2%;
+  cursor: pointer;
+}
+ul
+{
+  padding-top: 20px;
+  list-style-type: none;
+  cursor: pointer;
+}
+.introduction
+{
+  background-color: white;
+  padding: 2%;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.2);
+}
+@media only screen and (max-width: 990px) {
+ul
+{
+  text-align: center;
+}
+i
+{
+  text-align: center;
+}
+.btn
+{
+  text-align: center;
+}
+.fa
+{
+  position: relative;
+}
+div
+{
+  text-align: center;
+}
+input
+{
+  text-align: center;
+  color: grey;
+}
+.email-example {
+    width: 60%;
+    height: 40px;
+    margin-bottom: 10px;
+}
+}
